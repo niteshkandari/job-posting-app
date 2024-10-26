@@ -106,18 +106,17 @@ export const sendContactFormInquery = async (body: {
     email,
     message, propertyType } = body;
   const templatePath = path.join(__dirname, '../../views/contact-form.ejs');
-  const imagePath = path.join(__dirname, '../../images/brooker.png');
   const htmlTemplate = await ejs.renderFile(templatePath, {
     fullName:name,
     email,
     phoneNumber:phone,
-    message, propertyType, imagePath
+    message, propertyType
   });
 
   const mailOptions = {
     from: process.env.EMAIL,
-    to: "infobrookar@gmail.com",
-    subject: 'New inquery Update',
+    to: "",
+    subject: '',
     html: htmlTemplate,
   };
   return new Promise((resolve, reject) => {
