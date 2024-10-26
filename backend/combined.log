@@ -1,0 +1,405 @@
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T08:19:31.020Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:47:38.518Z"}
+{"email":"rick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:48:46.007Z"}
+{"email":"mick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:49:16.701Z"}
+{"email":"asd@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:50:21.556Z"}
+{"email":"asdasdasd@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:51:48.223Z"}
+{"email":"lhk@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T08:54:36.896Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:16:07.777Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:16:58.992Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:17:57.787Z"}
+{"email":"nick@gmail.com","level":"error","message":"User not found","timestamp":"2024-10-26T09:18:17.014Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T09:18:42.381Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:19:00.245Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:19:38.658Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:20:32.735Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T09:21:21.469Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to log User Error 401","timestamp":"2024-10-26T09:21:33.626Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T09:23:45.076Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:23:57.226Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:26:41.517Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:32:10.264Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:33:58.506Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:41:06.950Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:50:28.201Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:51:48.043Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T09:52:15.530Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T10:21:52.414Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T10:22:15.344Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T11:07:18.041Z"}
+{"email":"nick@gmail.com","level":"error","message":"user already exists","timestamp":"2024-10-26T11:17:53.452Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T11:17:53.653Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T11:18:40.864Z"}
+{"email":"nick@gmail.com","level":"info","message":"user created","timestamp":"2024-10-26T11:20:13.879Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T11:31:22.288Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T11:31:44.127Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:40:19.284Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:40:19.288Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:40:59.304Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:40:59.306Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:07.657Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:07.659Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:09.467Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:09.470Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:17.086Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:17.087Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:22.095Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:22.098Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:23.313Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:23.314Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:24.753Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:41:24.756Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:42:20.060Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:42:20.061Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:59:31.131Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:59:36.606Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T11:59:36.608Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:09.217Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:09.219Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:40.118Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:44.306Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:44.324Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:50.401Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:50.403Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:51.620Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:51.622Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:56.383Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:03:56.386Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:19.046Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:21.704Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:21.705Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:31.061Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:32.046Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:38.457Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:38.463Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:42.031Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:04:42.032Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:05:04.062Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:05:04.063Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:05:27.644Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:05:44.412Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:06:40.654Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:08:01.070Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:08:02.049Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:08:33.773Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:08:33.774Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:08:58.052Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:10:59.512Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:11:42.064Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:14:07.052Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T12:20:45.824Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:48.790Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:49.028Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:50.822Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:50.825Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:58.246Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T12:20:58.249Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:21:41.849Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:21:41.863Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:22:23.110Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:22:25.975Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:22:25.977Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:23:01.597Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:23:21.876Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:23:34.389Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:35:58.075Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:38:13.038Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:39:50.134Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:39:50.135Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T12:41:47.336Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:41:50.152Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:41:50.155Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:42:19.362Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:42:19.367Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:43:41.028Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:44:50.017Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:06.036Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:08.282Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:08.284Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:09.974Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:09.979Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:28.050Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:45:48.063Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T12:46:00.068Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:03:33.793Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:04:13.037Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:04:17.561Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:04:34.028Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:07.948Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T13:05:12.101Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T13:05:12.104Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:14.282Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:14.329Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:05:15.562Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:05:15.610Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:17.581Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:17.623Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:05:59.014Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:06:47.016Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:09:57.615Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:11:15.875Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:11:15.920Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:11:34.429Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:11:42.009Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:12:32.497Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:12:45.020Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:15:03.014Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:15:32.497Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T13:15:38.440Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:15:41.223Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:15:41.268Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:19:26.528Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:19:26.568Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:26:26.463Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:26:26.517Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:28:59.049Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:28:59.101Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:29:13.999Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:00.025Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:30:05.067Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:06.146Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:06.195Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:14.699Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:14.762Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:30:19.868Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:20.947Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:20.998Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:27.903Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:27.951Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:30:32.012Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:33.083Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:30:33.130Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:35.112Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:30:35.160Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:14.829Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:17.426Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:17.476Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:31:20.187Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:31:20.236Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:22.051Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:22.102Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:31:24.190Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:31:24.240Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:25.445Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:25.494Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:31:52.067Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:33:48.409Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:33:52.258Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:33:53.357Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:33:53.405Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:33:55.344Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:33:55.406Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:33:58.586Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:33:59.667Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:33:59.722Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T13:34:03.144Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T13:34:03.150Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T13:34:39.091Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:34:40.167Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:34:40.215Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:34:43.740Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:34:43.801Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:34:47.070Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:34:48.151Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:34:48.196Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:34:49.584Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:34:49.646Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:35:02.375Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:35:03.451Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:35:03.501Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:35:10.319Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T13:35:10.368Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T13:35:27.416Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:35:28.495Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:35:28.544Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:36:19.875Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:36:19.925Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:46:02.609Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T13:46:02.654Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:11:07.157Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:11:07.200Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:15:34.537Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:15:34.581Z"}
+{"level":"info","message":"Job Deleted successfully","timestamp":"2024-10-26T14:46:32.466Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:47:15.905Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:47:15.951Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:51:40.305Z"}
+{"level":"info","message":"Job Deleted successfully","timestamp":"2024-10-26T14:52:01.679Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:52:01.728Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:52:05.896Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:52:05.900Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:52:09.072Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:52:09.124Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:52:11.507Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:52:11.553Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:52:13.074Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:52:13.121Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:53:34.101Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:53:34.110Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T14:54:24.124Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:54:25.217Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:54:25.264Z"}
+{"level":"info","message":"Job Deleted successfully","timestamp":"2024-10-26T14:54:33.234Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:54:33.282Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:54:34.441Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T14:54:34.475Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T14:56:00.242Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:01.370Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:01.472Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:56:08.724Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:56:08.769Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T14:56:11.566Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:12.649Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:12.693Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:56:35.676Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T14:56:35.720Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T14:56:54.766Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:55.847Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:56:55.894Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:57:15.704Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:57:15.751Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:57:17.619Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T14:57:17.663Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:01:50.325Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:01:50.370Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:01:54.784Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:01:54.826Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:03:30.143Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:03:30.185Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T15:04:57.705Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:05:10.530Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:05:10.577Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:05:18.977Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:05:19.024Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T15:06:08.512Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T15:06:22.044Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T15:10:15.350Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:16:41.017Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:16:41.061Z"}
+{"email":"nick@gmail.com","level":"info","message":"user login success","timestamp":"2024-10-26T15:16:58.429Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:06.884Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:06.932Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:14.062Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:14.108Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T15:17:22.700Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T15:17:22.703Z"}
+{"level":"info","message":"Job created","timestamp":"2024-10-26T15:17:28.339Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:29.402Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:17:29.447Z"}
+{"level":"info","message":"Job Deleted successfully","timestamp":"2024-10-26T15:19:21.759Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:19:21.811Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:23:45.744Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:23:45.787Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:23:52.522Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:23:52.569Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:32:13.597Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:32:13.641Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:32:44.682Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:32:44.729Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:34:02.800Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:34:02.849Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:34:18.583Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:34:18.634Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:35:24.082Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:35:34.008Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:35:47.059Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:35:54.511Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:36:05.152Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:36:11.835Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:36:24.343Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:36:32.446Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:36:38.558Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:37:55.934Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:37:55.977Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:40:16.323Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:40:16.371Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:45:30.191Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:45:30.233Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:47:44.388Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:47:44.431Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:47:56.700Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:48:49.476Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:49:45.749Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:51:44.850Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:54:56.591Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T15:54:56.640Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:55:02.596Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T15:55:03.084Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:02:19.608Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:02:19.665Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to delete job Error 500","timestamp":"2024-10-26T16:10:50.599Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:11:07.208Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:11:07.259Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:11:09.294Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:11:09.631Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:14:53.963Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:15:23.674Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:17:12.484Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:17:31.460Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:18:58.828Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:19:37.109Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:19:48.483Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:19:48.535Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:20:08.217Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:20:08.273Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:20:21.070Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:20:21.117Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:20:48.891Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:20:48.898Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:20:50.157Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:20:50.212Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:20:53.140Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:47.646Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:47.697Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:23:50.441Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:23:50.487Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T16:23:52.968Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:54.048Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:54.091Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:23:55.797Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:23:55.841Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:58.357Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:23:58.402Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:24:02.049Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:24:02.096Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T16:24:06.673Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:24:07.743Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:24:07.787Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:24:17.112Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:24:56.685Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:24:56.733Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:24:57.636Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:24:58.835Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:25:08.959Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:25:09.008Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:28:34.718Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:28:34.768Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:29:22.733Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:29:23.441Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:29:36.350Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:30:18.091Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:30:18.159Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:30:51.661Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:30:56.525Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:31:08.534Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:31:29.660Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:31:39.735Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:32:01.935Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:32:01.981Z"}
+{"email":"nick@gmail.com","level":"error","message":"Unable to Create Customer Error 500","timestamp":"2024-10-26T16:32:03.150Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:38:21.160Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:38:43.467Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:41:32.515Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:41:32.563Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:43:30.550Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:43:30.605Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:44:43.140Z"}
+{"level":"info","message":"Job fetched successfully","timestamp":"2024-10-26T16:44:43.196Z"}
+{"level":"info","message":"Job Updated successfully","timestamp":"2024-10-26T16:44:48.391Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:44:49.483Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:44:49.532Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:46:29.627Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:46:29.673Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:46:52.314Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:46:52.362Z"}
+{"level":"info","message":"All the Jobs fetched successfully","timestamp":"2024-10-26T16:49:53.002Z"}
